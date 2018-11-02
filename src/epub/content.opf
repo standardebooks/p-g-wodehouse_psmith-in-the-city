@@ -37,7 +37,7 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Mike Jackson, the rising cricket star first introduced in &lt;i&gt;Mike&lt;/i&gt;, is forced by his family’s financial trouble to take a job at the New Asiatic Bank in London, rather than pursue his dream of playing cricket for Cambridge. However he’s joined by his dapper and verbose friend Psmith, and together they navigate London office life.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Psmith in the City&lt;/i&gt; was originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine in 1908 and 1909 as &lt;i&gt;The New Fold&lt;/i&gt;.&lt;/p&gt;  
+			&lt;p&gt;&lt;i&gt;Psmith in the City&lt;/i&gt; was originally serialized in &lt;i&gt;The Captain&lt;/i&gt; magazine in 1908 and 1909 as &lt;i&gt;The New Fold&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -56,7 +56,7 @@
 		<dc:contributor id="artist">John Singer Sargent</dc:contributor>
 		<meta property="file-as" refines="#artist">Sargent, John Singer</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/John_Singer_Sargent</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50019335.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50019335</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Suzanne L. Shell</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne L.</meta>
