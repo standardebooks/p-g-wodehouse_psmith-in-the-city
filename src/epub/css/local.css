@@ -5,3 +5,25 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+.signature{
+	font-variant: small-caps;
+}
+
+[epub|type~="preface"]{
+	margin-top: 4em;
+}
+
+[epub|type~="dedication"] p{
+	font-variant: small-caps;
+	margin: auto;
+	margin-top: 3em;
+	text-align: center;
+	text-indent: 0;
+	max-width: 75%;
+}
