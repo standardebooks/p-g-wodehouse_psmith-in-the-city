@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/psmith-in-the-city</dc:identifier>
 		<dc:date>2019-01-23T23:33:50Z</dc:date>
-		<meta property="dcterms:modified">2019-01-28T22:48:34Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<meta property="dcterms:modified">2019-02-27T00:09:46Z</meta>
+		<meta property="se:revision-number">3</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,6 +33,7 @@
 		<dc:subject id="subject-1">Humorous stories</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/6753</meta>
 		<meta property="se:subject">Comedy</meta>
+		<meta property="se:collection">Psmith</meta>
 		<dc:description id="description">A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
