@@ -45,7 +45,7 @@
 		<dc:source>https://www.pgdp.org/ols/tools/display.php?id=projectID3e20b3c3aa052</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102499762</dc:source>
 		<meta property="se:word-count">53602</meta>
-		<meta property="se:reading-ease.flesch">75.3</meta>
+		<meta property="se:reading-ease.flesch">75.2</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Psmith_in_the_City</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_psmith-in-the-city</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
