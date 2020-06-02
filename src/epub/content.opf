@@ -33,7 +33,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="se:subject">Comedy</meta>
-		<meta property="belongs-to-collection" id="collection-1">Psmith</meta>
+		<meta id="collection-1" property="belongs-to-collection">Psmith</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<dc:description id="description">A young man abandons his dream of playing cricket at Cambridge because of financial trouble and goes to work for a London bank, where he’s joined by an unflappable friend.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
