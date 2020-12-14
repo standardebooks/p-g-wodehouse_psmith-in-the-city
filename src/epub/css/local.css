@@ -11,7 +11,7 @@ footer{
 }
 
 [epub|type~="preface"]{
-	margin-top: 4em;
+	margin-top: 20vh;
 }
 
 [epub|type~="dedication"] p{
