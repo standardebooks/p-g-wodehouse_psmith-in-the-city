@@ -18,7 +18,7 @@ footer{
 	font-variant: small-caps;
 	margin: auto;
 	margin-top: 3em;
+	max-width: 75%;
 	text-align: center;
 	text-indent: 0;
-	max-width: 75%;
 }
