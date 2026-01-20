@@ -45,7 +45,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6753</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102499762</dc:source>
-		<meta property="se:word-count">53606</meta>
+		<meta property="se:word-count">52896</meta>
 		<meta property="se:reading-ease.flesch">75.3</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Psmith_in_the_City</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_psmith-in-the-city</meta>
